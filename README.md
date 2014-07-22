@@ -8,4 +8,3 @@ Best practice documentation for creating and managing repositories in the chnops
 * Start by Forking it, you can always merge back later.
 * Comment inline.
 * Be open and share.
-* GitHub is not a data store, it's for code.
